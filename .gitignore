@@ -1,0 +1,8 @@
+node_modules
+hardhat.config.js
+contracts/artifacts
+interfaces/artifacts
+package-lock.json
+package.json
+swarm
+.deps
